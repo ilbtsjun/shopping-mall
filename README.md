@@ -23,3 +23,8 @@ npm i react-router-dom
 #### 회원
 - api 개발(REST API)
 - 회원(프런트 개발)
+
+### Render 서버 배포
+- Root Directory: `server`
+- Build Command: `npm install`
+- Start Command: `npm start`
